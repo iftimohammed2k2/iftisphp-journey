@@ -11,7 +11,7 @@ Whether you're learning on a phone, low-resource laptop, or just want to build f
 | #  | Project Name             | Type              | Framework | Status     |
 |----|--------------------------|-------------------|-----------|------------|
 | 1  | Login System             | Beginner          | None      | ✅ Done     |
-| 2  | Task Manager             | Beginner          | None      | 🔄 In Progress |
+| 2  | Task Manager             | Beginner          | None      | ✅ Done |
 | 3  | Inventory System         | Intermediate      | Yii2      | 🔜 Planned  |
 | 4  | Blog with Comments       | Intermediate      | Yii2      | 🔜 Planned  |
 | 5  | Bookstore REST API       | Intermediate/API  | Yii2      | 🔜 Planned  |

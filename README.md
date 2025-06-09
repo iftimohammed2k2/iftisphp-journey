@@ -1,4 +1,4 @@
-# 🚀 IFTI's PHO Journey — From PHP Basics to Yii2 Mastery
+# 🚀 IFTI's PHP Journey — From PHP Basics to Yii2 Mastery
 
 Welcome to **`iftisphp-journey`** – my step-by-step journey into web development using **PHP** and the **Yii2 Framework**.
 

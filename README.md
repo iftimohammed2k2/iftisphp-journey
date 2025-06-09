@@ -1,6 +1,6 @@
-# 🚀 IFTI's Web Journey — From PHP Basics to Yii2 Mastery
+# 🚀 IFTI's PHP Journey — From PHP Basics to Yii2 Mastery
 
-Welcome to **`iftiswebjourney`** – my step-by-step journey into web development using **PHP** and the **Yii2 Framework**.
+Welcome to **`iftisphp-journey`** – my step-by-step journey into web development using **PHP** and the **Yii2 Framework**.
 
 Whether you're learning on a phone, low-resource laptop, or just want to build from scratch without bloated tools — this repo is a practical, terminal-friendly roadmap of real-world projects.
 

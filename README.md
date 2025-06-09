@@ -1,57 +1,25 @@
-# 🚀 IFTI's PHP Journey — From PHP Basics to Yii2 Mastery
+# Inventory System Yii2
 
-Welcome to **`iftisphp-journey`** – my step-by-step journey into web development using **PHP** and the **Yii2 Framework**.
+This is a simple **Inventory Management System** built using the **Yii2 PHP Framework (Basic App Template)** and **SQLite** database.
 
-Whether you're learning on a phone, low-resource laptop, or just want to build from scratch without bloated tools — this repo is a practical, terminal-friendly roadmap of real-world projects.
+## 📦 Features
 
----
+- Add new products to inventory
+- View all products
+- Edit product details
+- Delete products
+- Powered by Yii2 Gii (auto-generated CRUD)
 
-## 🗺️ Project Roadmap (10 Total)
+## 🛠 Tech Stack
 
-| #  | Project Name             | Type              | Framework | Status     |
-|----|--------------------------|-------------------|-----------|------------|
-| 1  | Login System             | Beginner          | None      | ✅ Done     |
-| 2  | Task Manager             | Beginner          | None      | ✅ Done   |
-| 3  | Inventory System         | Intermediate      | Yii2      | 🔜 Planned  |
-| 4  | Blog with Comments       | Intermediate      | Yii2      | 🔜 Planned  |
-| 5  | Bookstore REST API       | Intermediate/API  | Yii2      | 🔜 Planned  |
-| 6  | URL Shortener            | Intermediate      | PHP       | 🔜 Planned  |
-| 7  | Contact Form with Mailer | Beginner+         | PHP       | 🔜 Planned  |
-| 8  | Expense Tracker          | Intermediate      | Yii2      | 🔜 Planned  |
-| 9  | Admin Dashboard (CRUD)   | Intermediate      | Yii2      | 🔜 Planned  |
-| 10 | Weather App (API-based)  | Intermediate/API  | PHP       | 🔜 Planned  |
+- PHP 8+
+- Yii2 (Basic Template)
+- SQLite3
+- Composer
 
-> 🧠 Each project will be documented with a mini guide, features, and code comments.
+## 🚀 Setup Instructions
 
----
-
-## ⚙️ Tech Stack
-
-- **Language**: PHP (8+)
-- **Framework**: Yii2 for advanced projects
-- **Tools**: Termux, Ubuntu (via proot-distro), Composer, Git
-- **Database**: SQLite / MySQL (from Project 3 onward)
-- **Extras**: API integration, session management, basic security
-
----
-
-## 💡 Why This Exists
-
-> "Learn by building. Build to remember. Share to grow."
-
-This repo is:
-- 📖 My personal PHP/Yii2 learning journal
-- 💼 A future-ready public portfolio
-- 🧰 A complete dev environment inside **Termux** with Ubuntu
-- 💡 A help source for anyone learning web dev without full-stack IDEs
-
----
-
-## ▶️ Run Any Project
-
-### ✅ Inside Termux:
-
+### 1. Clone the Repository
 ```bash
-pkg install proot-distro
-proot-distro install ubuntu
-proot-distro login
+git clone https://github.com/iftimohammed2k2/iftisphp-journey.git
+cd iftisphp-journey/inventorysystemyii2
